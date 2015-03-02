@@ -14,3 +14,5 @@ gem "lita-corporate-bs-generator"
 ### Usage
 `Lita: corporate bs` - display some corporate garbage
 
+`> Insights technically empower the stakeholders. A centralized brand pyramid structures global measures.`
+
