@@ -1,6 +1,6 @@
 # lita-corporate-bs-generator
 
-**lita-corporate-bs-generator** is a handler that will spew some arbitrary corporate garbage at you, taken from the ever-amazing http://cbsg.sourceforge.net/cgi-bin/live .
+**lita-corporate-bs-generator** is a handler that will spew some arbitrary corporate garbage at you, taken from the ever-amazing http://pasta.phyrama.com:8083/cgi-bin/live.exe .
 
 Inspired heavily by (more or less copy-pasted from) [lita-pugbomb](https://github.com/killpack/lita-pugbomb).
 
