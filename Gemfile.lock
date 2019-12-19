@@ -35,7 +35,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     puma (2.11.1)
       rack (>= 1.1, < 2.0)
-    rack (1.6.11)
+    rack (1.6.12)
     rake (10.4.2)
     rb-readline (0.5.2)
     redis (3.2.1)
